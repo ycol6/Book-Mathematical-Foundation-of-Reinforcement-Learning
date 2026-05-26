@@ -160,7 +160,7 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 - https://github.com/purundong/test_rl
 
 
-**Study notes**
+**Notes and others**
 
 *English:*
 
@@ -168,6 +168,8 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 by a graduate student from UC Davis
 
 *Chinese:* 
+
+- RL knowledge graph: https://hanfei-hz.github.io/assets/files/rl_explorer.html (by Fei Han, May 2026)
 
 - https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main (Jan 2026)
   
